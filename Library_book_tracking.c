@@ -1,8 +1,6 @@
 /*
-Name:Sammy Njuguna
-Reg.No.:CT101/G/28858/25
 Date:1 Nov,2025
-Description:Library book tracking 
+Description:Library book tracking system 
 */
 #include <stdio.h>
 #include <stdlib.h>
